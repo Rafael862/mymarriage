@@ -15,7 +15,7 @@ div {
 }
 
 .pimg1 {
-    background-image: url("/imagens/foto1.jpg");
+    background-image: url("/imagens/foto1-editada.jpeg");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -26,7 +26,7 @@ div {
 }
 
 .pimg2 {
-    background-image: url("/imagens/foto2.jpg");
+    background-image: url("/imagens/foto2-editada.jpeg");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -37,7 +37,7 @@ div {
 }
 
 .pimg3 {
-    background-image: url("/imagens/foto3.jpg");
+    background-image: url("/imagens/foto3-editada.jpeg");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
