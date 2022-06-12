@@ -6,6 +6,8 @@
     text-align: center;
     background-color: tomato;
 }*/
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+
 body, html {
     font-weight: 400;
     font-size: 16px;
@@ -94,6 +96,11 @@ p {
     
     margin: 16px 0px;
     font-size: 16px;
+}
+
+.cursiva{
+    font-family: 'Parisienne', cursive;
+    font-size: 23px;
 }
 
 .pimg2, .pimg3 {
