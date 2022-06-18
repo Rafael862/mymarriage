@@ -7,7 +7,7 @@
     background-color: tomato;
 }*/
 @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Parisienne&display=swap');
 body, html {
     font-weight: 400;
     font-size: 16px;
@@ -65,6 +65,11 @@ div {
     color: #fff;
     padding: 20px;
     font-family: 'Lato', sans-serif;
+}
+
+#border2{
+    font-family: 'Lobster', cursive;
+    font-size: 13px;
 }
 
 .section-light {
